@@ -18,10 +18,6 @@ The Build Me Up portal is a cloud-based Information Systems solution designed fo
 * Eliminate 100% of physical paper log tracking across pilot construction sites.
 * Achieve seamless real-time cost visibility, mapping field progress updates to budget alterations with zero data-entry lag.
 
-## 3. Budget & Milestone Schedule
-### Budget & Resources
-* **Estimated Budget / Resource Allocation:** Software development utilizing cloud infrastructure (AWS/Azure free tier/student credits), open-source front-end frameworks, and mobile-responsive design principles.
-
 ### Milestone Schedule
 1. **Project Planning & Initialization:** August 24, 2026 – September 4, 2026
 2. **Gather Requirements:** September 7, 2026 – September 25, 2026
@@ -33,7 +29,7 @@ The Build Me Up portal is a cloud-based Information Systems solution designed fo
 8. **Documentation & Final Polish:** November 12, 2026 – November 20, 2026
 9. **Final Presentation & Deliverables:** November 30, 2026 – December 4, 2026
 
-## 4. Team Roles & Governance
+## 3. Team Roles & Governance
 Every team member is assigned a professional IT counterpart role to ensure clear division of labor and enterprise-level governance for the "Build Me Up" project:
 
 * **Ethan Wood – Project Manager:** Oversees overall project timelines, milestone tracking, cross-functional communication, resource allocation, and stakeholder management.
@@ -41,7 +37,7 @@ Every team member is assigned a professional IT counterpart role to ensure clear
 * **Isaiah Venegas – Systems Architect & Technical Lead:** Designs the cloud data structures, core architecture, and database schemas required for real-time cost-to-progress tracking.
 * **Nathan Wolfe – QA Lead & Scrum Master:** Manages the GitHub repository board workflows, enforces testing protocols, verifies mobile responsiveness, and ensures data integrity.
 
-## 5. RACI Matrix
+## 4. RACI Matrix
 *(R = Responsible, A = Accountable, C = Consulted, I = Informed)*
 
 | Project Task / Deliverable | Ethan Wood (PM) | Dino Ferreira (Lead BA) | Isaiah Venegas (Sys Architect) | Nathan Wolfe (QA / Scrum Master) |
