@@ -30,7 +30,6 @@ The Build Me Up portal is a cloud-based Information Systems solution designed fo
 9. **Final Presentation & Deliverables:** November 30, 2026 – December 4, 2026
 
 ## 3. Team Roles & Governance
-Every team member is assigned a professional IT counterpart role to ensure clear division of labor and enterprise-level governance for the "Build Me Up" project:
 
 * **Ethan Wood – Project Manager:** Oversees overall project timelines, milestone tracking, cross-functional communication, resource allocation, and stakeholder management.
 * **Dino Ferreira – Lead Business Analyst:** Bridges the gap between job-site field engineers and office managers, gathers functional requirements, and maps out system workflows.
