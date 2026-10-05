@@ -17,10 +17,9 @@ Manage project budgets, expenses, cost tracking, and budget variance.
 - Administrators
 
 **Issues:**
-- Project Budget Setup
-- Expense Tracking
-- Budget vs. Actual Reporting
-- Cost Category Management
+- Projected Cost vs Actual Cost
+- Record Project Expenses
+- View Project Cost SUmmary
 
 ---
 
@@ -55,7 +54,6 @@ Provide field personnel with centralized access to site checklists, blueprints, 
 
 **Issues:**
 - Complete Site Checklist
-- Review Checklist Progress
 - Upload Blueprint
 - Blueprint Version Tracking
 
@@ -74,7 +72,6 @@ Manage the submission, review, approval, and financial impact of project change 
 
 **Issues:**
 - Submit Change Order
-- Review Change Order
 - Approve or Reject Change Order
 - Track Change Order Cost Impact
 
