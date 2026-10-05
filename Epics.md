@@ -7,8 +7,6 @@ The project will be organized into five major epics. Each epic represents a majo
 
 ## Epic: Budget & Cost Management
 
-**Label:** `epic:budget`
-
 Manage project budgets, expenses, cost tracking, and budget variance.
 
 **Primary Users:**
@@ -19,13 +17,11 @@ Manage project budgets, expenses, cost tracking, and budget variance.
 **Issues:**
 - Projected Cost vs Actual Cost
 - Record Project Expenses
-- View Project Cost SUmmary
+- View Project Cost Summary
 
 ---
 
 ## Epic: Safety Reports
-
-**Label:** `epic:safety`
 
 Digitize the creation, tracking, and management of job-site safety reports.
 
@@ -37,14 +33,12 @@ Digitize the creation, tracking, and management of job-site safety reports.
 **Issues:**
 - Submit Safety Report
 - Attach Safety Documentation
+- Accident Scale
 - Safety Report Status Tracking
-- Safety Report Search
 
 ---
 
 ## Epic: Site Checklist & Blueprint Details
-
-**Label:** `epic:site-documentation`
 
 Provide field personnel with centralized access to site checklists, blueprints, and project documentation.
 
@@ -61,8 +55,6 @@ Provide field personnel with centralized access to site checklists, blueprints, 
 
 ## Epic: Change Order Management
 
-**Label:** `epic:change-orders`
-
 Manage the submission, review, approval, and financial impact of project change orders.
 
 **Primary Users:**
@@ -72,14 +64,12 @@ Manage the submission, review, approval, and financial impact of project change 
 
 **Issues:**
 - Submit Change Order
-- Approve or Reject Change Order
+- Change Order Status
 - Track Change Order Cost Impact
 
 ---
 
 ## Epic: Users & Notifications
-
-**Label:** `epic:users-notifications`
 
 Manage user accounts, permissions, roles, and project notifications.
 
@@ -89,7 +79,7 @@ Manage user accounts, permissions, roles, and project notifications.
 - Field Engineers
 
 **Issues:**
-- Create User Account
 - Assign User Roles
-- Manage Permissions
-- Configure Notifications
+- User Notifications
+- Safety Alerts
+- Project Notifications
