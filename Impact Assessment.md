@@ -1,6 +1,6 @@
 Build Me Up Field Management Portal Requested by: Regional Safety & Risk Director
 
-	The portal would connect to "smart wearables". If a worker without an active crane safety certification enters a 
+The portal would connect to workers' smart wearables. If a worker without an active
 crane radius, the system would sound an on site siren, lock out the machinery, and log an OSHA noncompliance report. 
 
 SCOPE IMPACT
@@ -22,7 +22,7 @@ Meeting the request would require new deliverables:
 
 SCHEDULE IMPACT:
 	
-	The change would add many months to the estimated completion date. Even with the system renting cranes is alot more
+The change would add many months to the estimated completion date. Even with the system renting cranes is alot more
 affordable option and we would need permission from the crane owners to implement the software. Which would also conflict with 
 our constraint to stay within the approved schedule found in section 11.
 
