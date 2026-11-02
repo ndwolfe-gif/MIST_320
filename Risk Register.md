@@ -2,7 +2,7 @@
 
 | ID | Risk Description | Category | Probability | Impact | Risk Score | Response Strategy | Mitigation Plan | Owner | Status | Last Update |
 |---|---|---|---|---|---|---|---|---|---|---|
-| R-01 | Poor internet connectivity may prevent field engineers from uploading site logs and change requests. | Technical | 3 (High) | 3 (High) | 9 | Mitigate | Add offline functionality and automatic synchronization when connectivity returns. | Isaiah Venegas | Active | 2026-11-02 |
+| R-01 | Poor internet connectivity may prevent field engineers from uploading site logs and change requests. | Technical | 3 (High) | 3 (High) | 9 | Mitigate | Provide clear connection warnings, retry failed uploads when connectivity returns, and establish manual reporting procedures during internet outages. | Isaiah Venegas | Active | 2026-11-02 |
 | R-02 | Unauthorized users may access sensitive construction documents, budgets, or safety records. | Security | 2 (Medium) | 3 (High) | 6 | Mitigate | Implement role-based access, multi-factor authentication, encryption, and security testing. | Isaiah Venegas | Active | 2026-11-02 |
 | R-03 | Employees may continue using paper records instead of adopting the new portal. | Operational | 3 (High) | 3 (High) | 9 | Mitigate | Provide employee training and establish procedures requiring portal usage. | Ethan Wood | Active | 2026-11-02 |
 | R-04 | Blueprint updates may fail to synchronize, causing employees to reference outdated construction plans. | Technical | 2 (Medium) | 3 (High) | 6 | Mitigate | Implement blueprint version control, modification histories, and update notifications. | Isaiah Venegas | Active | 2026-11-02 |
