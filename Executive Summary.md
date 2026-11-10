@@ -49,5 +49,3 @@ Build Me Up Construction's Field Operations & Change Management Portal is demons
 With 30 story points remaining and one sprint left, the project appears well positioned for successful completion. Maintaining scope discipline, addressing operational risks, and validating system functionality will be essential to delivering the intended improvements in construction project visibility, financial accountability, and operational efficiency.
 
 ---
-
-*Note: The $200,000 Actual Cost is an assignment assumption rather than verified project expenditure. EVM forecasts should be interpreted accordingly.*
